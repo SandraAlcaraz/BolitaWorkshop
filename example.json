@@ -1,0 +1,27 @@
+{
+    "Students":
+    [
+        {
+            "Name": "Sandra",
+            "Hobby": "Read",
+            "Age": "22",
+            "Phone": "5555",
+            "Address": "Tec 21"
+        },
+        {
+            "Name": "Ramon",
+            "Hobby": "Sleep",
+            "Age": "23",
+            "Phone": "4444",
+            "Address": "Cafeteria 12"
+        },
+        {
+            "Name": "Rosa",
+            "Hobby": "Eat",
+            "Age": "21",
+            "Phone": "333",
+            "Address": "Biblioteca 12"
+        }
+    ]
+    
+}
